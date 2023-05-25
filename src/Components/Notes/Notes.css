@@ -1,0 +1,156 @@
+.notes-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: text, Helvetica, Arial, sans-serif, color symbol
+}
+
+.notes-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  font-family: text, Helvetica, Arial, sans-serif, color symbol
+}
+
+.notes-header label {
+  margin-right: 10px;
+}
+
+.notes-input {
+  margin-bottom: 20px;
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+}
+
+.input-container {
+  position: relative;
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+}
+
+textarea {
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  padding-top: 39Px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  resize: vertical;
+}
+
+.styling-buttons {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border: 1px solid #ccc;
+  width: 97%;
+}
+
+.styling-buttons button {
+  margin-left: 5px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.add-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: black;
+  color: #fff;
+  cursor: pointer;
+}
+
+.notes-list .note-item {
+  margin-bottom: 10px;
+  background-color: #f7f9fa;
+  border: 1px solid black;
+}
+
+.note-content {
+  margin-bottom: 5px;
+  margin-left: 2%;
+}
+
+.note-content-time {
+  background-color: black;
+  color: white;
+  width: 20%;
+  border-radius: 12px;
+  text-align: center;
+  height: 1%;
+}
+
+.note-header {
+  display: flex;
+}
+
+.note-content textarea {
+  width: 100%;
+  height: 60px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  resize: vertical;
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+}
+
+.note-actions {
+  display: flex;
+  width: 19%;
+  margin-left: 80%;
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+}
+
+.note-actions button {
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+
+  padding: 5px 10px;
+  margin-right: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.save-btn {
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+
+  background-color: black;
+  color: #fff;
+
+}
+
+.edit-btn {
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+
+  background-color: transparent
+}
+
+.delete-btn {
+  font-family: text, Helvetica, Arial, sans-serif, color symbol;
+
+  background-color: transparent;
+
+}
+.noteFilter{
+  display: flex;
+  width: 1.5rem;
+  margin-top: 1%;
+
+}
+.allLectures{
+  height:2rem ;
+  font-family:Helvetica,Arial,sans-serif,color  symbol;
+  font-weight: 500;
+
+  font-size: 20px;
+}
+.shortedby{
+  margin-left: 3%;
+  height:2rem ;
+  font-family:Helvetica,Arial,sans-serif,color  symbol;
+  font-weight: 500;
+
+  font-size: 20px;
+}

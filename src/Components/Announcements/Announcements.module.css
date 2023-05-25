@@ -1,0 +1,27 @@
+.Annpage{
+    margin-top: 3%;
+    font-family:text,Helvetica,Arial,sans-serif, color symbol;
+    /* border:1px solid black; */
+    width: 70%;
+    margin-left: 13%;
+}
+.img {
+    margin-top: 5px;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+  }
+
+  .imgsection{
+    display: flex;
+  }
+
+  .imgdecs{
+    margin-top: 1%;
+    margin-left: 1%;
+  }
+  .Announcements{
+    background-color: #f7f9fa;
+    margin-top: 2%;
+    width: 100%;
+  }

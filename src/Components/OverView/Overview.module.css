@@ -1,0 +1,123 @@
+.fpage{
+    margin-top: 3%;
+    margin-left:3%;
+    font-family:text,Helvetica,Arial,sans-serif, color symbol
+}
+
+.form{
+    border: 1px solid black;
+    width: 80%;
+    display: flex;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 4%;
+
+
+}
+.icon{
+    width: 4%;
+}
+
+.gstarted{
+    background-color: black;
+    color:white;
+    border:1px solid black;
+    height: 50%;
+    margin-top: 2%;
+}
+.slheading{
+    font-family:text,Helvetica,Arial,sans-serif, color symbol;
+    font-weight: 700;
+    line-height: 1.4;
+    font-size: 1.4rem; 
+}
+.slcontent{
+    font-family:text,Helvetica,Arial,sans-serif, color symbol;
+    font-size: 15px;
+    color:gray
+
+}
+.abheading{
+    font-family:text,Helvetica,Arial,sans-serif, color symbol;
+    font-weight: 700;
+    line-height: 1.4;
+    font-size: 1.4rem; 
+}
+.abcontent{
+margin-top: 1%;
+margin-bottom: 1%;
+}
+.aboutcourse{
+    border-bottom:1px solid gray;
+    margin-top: 1%;
+    width: 83%;
+}
+.nusection{
+    display:flex;
+    margin-top: 1%;
+    border-bottom:1px solid gray;
+    width: 83%;
+}
+.ncontent1{
+    
+}
+.ncontent2{
+    margin-left: 22%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.description{
+    display:flex;
+    margin-top: 1%;
+    border-bottom:1px solid gray;
+    width: 83%;
+
+}
+.dheading{
+    font-family:text,Helvetica,Arial,sans-serif, color symbol;
+}
+.dcontent{
+    margin-left: 22%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+.showbtn{
+    font-family:text,Helvetica,Arial,sans-serif, color symbol;
+    color:#5624d0;
+    font-size: 15px;
+    margin-top: 2%;
+    
+}
+.remdescription{
+    
+    margin-top: 1%;
+    border-bottom:1px solid gray;
+    width: 83%;
+
+}
+.instructorSection{
+    display:flex;
+    margin-top: 1%;
+    border-bottom:1px solid gray;
+    width: 83%;
+
+}
+
+.inst{
+
+}
+.insDescription{
+    display:flex;
+
+}
+.img {
+    margin-top: 5px;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+  }
+  .imgsection{
+    margin-left: 50%;
+  }

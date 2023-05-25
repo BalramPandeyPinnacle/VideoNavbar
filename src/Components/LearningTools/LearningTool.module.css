@@ -1,0 +1,15 @@
+.heading{
+    font-family: 'Open Sans', sans-serif;
+    color:gray;
+    font-size: 18pt;
+    border:none;
+   
+    
+
+}
+
+.heading:hover{
+    opacity: 1;
+    text-decoration:underline;
+    color:black;
+}

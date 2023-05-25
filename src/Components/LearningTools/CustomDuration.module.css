@@ -1,0 +1,16 @@
+.outline{
+    border:2px solid black;
+    height: 2.5rem;
+    align-self: center;
+    font-family:  text, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-left: 1%;
+    background-color: white;
+    color:black;
+}
+
+.customD{
+    width: fit-content;
+    display: flex;
+}
